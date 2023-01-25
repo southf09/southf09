@@ -1,7 +1,7 @@
 # Frank South
-### I am programmer based in Raleigh, NC. 
+### I am programmer with a focus on Web Development. 
 
-⤷ Feel free to reach out to me regarding jobs, collaborations, and discussions.
+⤷ Feel free to reach out to me regarding job opportunities, collaborations, or even just to discuss all things programming.
 
  <a aligh="left" href="https://franksouth.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:frankstonesouth@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/user/Franklin#2469" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a>  
 
