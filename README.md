@@ -1,5 +1,5 @@
 # Frank South
-### I am programmer with a focus on Web Development. 
+### I am a programmer with a focus on Web Development. 
 
 ⤷ Feel free to reach out to me regarding job opportunities, collaborations, or even just to discuss all things programming.
 
